@@ -1,8 +1,8 @@
 import alpaca_trade_api as tradeapi
 import datetime
 
-ALPACA_API_KEY = "REPLACE_ME"
-ALPACA_SECRET_KEY = "REPLACE_ME"
+ALPACA_API_KEY = "AKG3M4U3DPGOHGFSLNOP"
+ALPACA_SECRET_KEY = "pw1mYdEKak0jn5LfWnm4LgWG6Wo3tmuwM1iV//7v"
 USE_POLYGON = False
 
 
